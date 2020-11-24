@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Neuer Ärger um den umstrittenen Verfassungsschutzchef Hans-Georg Maaßen: Auslöser ist eine Rede, die er am 18. Oktober vor europäischen Kollegen in Warschau hielt und die ab dem 24. Oktober im Intranet des Bundesamtes für Verfassungsschutz zu lesen gewesen ist. Deshalb soll der 55-Jährige, anders als eigentlich vorgesehen, nun wohl doch nicht ins Innenministerium wechseln.
 
 Innenminister Horst Seehofer will sich in einer Pressekonferenz um 15 Uhr zu Maaßens Zukunft äußern. Die umstrittene Rede liegt dem Handelsblatt vor. Dies ist der vollständige Wortlaut:
@@ -30,6 +31,8 @@ Liebe Kolleginnen und Kollegen, es fällt mir schwer, mich nach sechs Jahren von 
 Ich habe in den letzten Jahren viel Unterstützung von Ihnen erfahren bei der Lösung unserer nationalen Sicherheitsprobleme und ich habe mich immer bemüht, Sie auch bei Ihrer Arbeit zu unterstützen, damit Ihre Länder und Europa sicherer werden. Ich möchte Ihnen für all das danken. Danken möchte ich Ihnen auch für die vielen persönlichen und freundschaftlichen Momente, die ich erfahren durfte.
 
 =======
+=======
+>>>>>>> master
 Neuer Ärger um den umstrittenen Verfassungsschutzchef Hans-Georg Maaßen: Auslöser ist eine Rede, die er am 18. Oktober vor europäischen Kollegen in Warschau hielt und die ab dem 24. Oktober im Intranet des Bundesamtes für Verfassungsschutz zu lesen gewesen ist. Deshalb soll der 55-Jährige, anders als eigentlich vorgesehen, nun wohl doch nicht ins Innenministerium wechseln.
 
 Innenminister Horst Seehofer will sich in einer Pressekonferenz um 15 Uhr zu Maaßens Zukunft äußern. Die umstrittene Rede liegt dem Handelsblatt vor. Dies ist der vollständige Wortlaut:
@@ -60,5 +63,8 @@ Liebe Kolleginnen und Kollegen, es fällt mir schwer, mich nach sechs Jahren von 
 
 Ich habe in den letzten Jahren viel Unterstützung von Ihnen erfahren bei der Lösung unserer nationalen Sicherheitsprobleme und ich habe mich immer bemüht, Sie auch bei Ihrer Arbeit zu unterstützen, damit Ihre Länder und Europa sicherer werden. Ich möchte Ihnen für all das danken. Danken möchte ich Ihnen auch für die vielen persönlichen und freundschaftlichen Momente, die ich erfahren durfte.
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 Ich würde mich sehr freuen, auch nach dieser Zeit mit manch einem von Ihnen persönlich und privat in Kontakt bleiben zu können. Zuletzt möchte ich die Bitte äußern, dass Sie mit meinem Nachfolger die Zusammenarbeit in gleich intensiver Weise partnerschaftlich fortsetzen. Danke für Ihre Aufmerksamkeit!
